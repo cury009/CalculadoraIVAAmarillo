@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margenesparedes"> 16dp</dimen>
+    <dimen name="margensuperiores">32dp</dimen>
+    <dimen name="tamletra">20sp</dimen>
+</resources>
